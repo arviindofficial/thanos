@@ -15,7 +15,9 @@
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-red)](https://t.me/thanos_pro)
 
 ------
-<summary><h3>[OUTDATED] Ultroid CLI</h3></summary>
+<details>
+
+<summary><h3>[WORKFLOW] </h3></summary>
 
 [Import](https://github.com/new/import) 
 
