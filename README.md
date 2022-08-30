@@ -17,7 +17,7 @@
 ------
 <details>
 
-<summary><h3>[WORKFLOW] </h3></summary>
+<summary><h3>WORKFLOW</h3></summary>
 
 [Import](https://github.com/new/import) 
 
