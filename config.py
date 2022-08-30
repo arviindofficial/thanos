@@ -1,4 +1,3 @@
-# EDIT THIS FILE AND RENAME TO config.py TO MAKE THIS BOT WORKING
 # FILL THESE VALUES ACCORDINGLY.
 
 from THANOSPRO.config.rishu_config import Config
@@ -21,7 +20,8 @@ class Development(Config):
   # Create a bot in @BotFather
   # And fill the following values with bot token and username.
   BOT_TOKEN = "Your value" #token
-
+  #FILL BOT USERNAME WITHOUT @
+  BOT_USERNAME = "YOUR VALUE"
   # Custom Command Handler. 
   HANDLER = "."
 
