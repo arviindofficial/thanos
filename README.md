@@ -15,6 +15,17 @@
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-red)](https://t.me/thanos_pro)
 
 ------
+<summary><h3>[OUTDATED] Ultroid CLI</h3></summary>
+
+[Import](https://github.com/new/import) 
+
+- CLICK ON IMPORT AND IMPORT THIS REPOSITORY
+- AND FILL CONFIG.PY 
+- AND NOW DEPLOYE IN YOUR THANOS KALI LINUX SERVER
+- KALI LINUX SERVER [REPO](https://github.com/Gandi098/thanos-kali)
+</details>
+
+---
 # HEROKU 
  - IF U WANT TO DEPLOYE Շђคภ๏ร-קг๏ IN HEROKU THEN CLICK ON MAIN REPO
 
