@@ -16,11 +16,9 @@
 ## 🔥Telegram🔥
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-red)](https://t.me/thanosprosss)
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-red)](https://t.me/thanos_pro)
-
 </details>
 ------
 <details>
-
 <summary><h3>WORKFLOW</h3></summary>
 
 [Import](https://github.com/new/import) 
@@ -31,7 +29,6 @@
 - KALI LINUX SERVER [REPO](https://github.com/Gandi098/thanos-kali)
 </details>
 
-------
 <details>
 <summary><h3>HEROKU</h3></summary>
 
@@ -58,10 +55,6 @@
 <p align="left">
     <a href="https://github.com/thanosuser/THANOS-PROS/network/members"><img src="https://img.shields.io/github/forks/thanosuser/thanos-pros?label=Forks&logoColor=red&style=social"></a><p align="left"><a href="https://github.com/thanosuser/THANOS-PROS/stargazers"><img src="https://img.shields.io/github/stars/thanosuser/THANOS-PROS?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/thanosuser/THANOS-PROS"></a><p align="left"><a href="https://github.com/thanosuser/THANOS-PROS?"></a>
 
-------
-
-
-------
 <details>
 <summary><h3>Credits</h3></summary>
 
@@ -88,7 +81,8 @@
 - proboy
 
 </details>
------
+details>
+<summary><h3>plugins credits</h3></summary>
 ## plugins credits
 - catbot
 - thanospros-v1
