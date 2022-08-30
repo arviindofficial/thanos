@@ -33,7 +33,6 @@
 
 - [main repo](https://github.com/thanosuser/THANOS-PROS)
 </details>
-------
 <details>
 <summary><h3>DISCLAIMER</h3></summary>
 
@@ -72,7 +71,7 @@
 ## assistant 
 - proboy
 </details>
-details>
+<details>
 <summary><h3>plugins credits</h3></summary>
 ## plugins credits
 - catbot
