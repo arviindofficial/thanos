@@ -24,6 +24,8 @@ class Development(Config):
   BOT_USERNAME = "YOUR VALUE"
   # Custom Command Handler. 
   HANDLER = "."
+  #loger I'd
+  LOGGER_ID = "Your value"
 
   # Custom Command Handler for sudo users.
   SUDO_HANDLER = "!"
