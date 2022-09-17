@@ -80,6 +80,7 @@ async def join_it(client):
             await client(functions.channels.JoinChannelRequest("@thanosprosss"))
             await client(functions.channels.JoinChannelRequest("@thanos_pro"))
             await client(functions.channels.JoinChannelRequest("@thanos_plugin"))
+            await client(functions.channels.JoinChannelRequest("@learningbots79"))
         except BaseException:
             pass
 
