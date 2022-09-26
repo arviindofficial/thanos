@@ -15,7 +15,7 @@ class Development(Config):
   # Do `python string.py` and fill the on screen prompts.
   # String session will be saved in your saved message of telegram.
   # Put that string here.
-  THANOSPRO_SESSION = "BQCeB-rsjigMcY7NggO76A4Fy2PNMjkznqV0bEXOFanj6Fdsmq_PZ2hOcmt-T03GAGOnc8OiUCxNw7T3eouzGgBrXFwvPDgmswfW-yyWO3z9g8Oqrkc5veeq615EBd-Zaze-9gRZThsHNsNDS8x75P1Bdpb8LyuAe8ilmiXQWBYpcZAzHzrEr-eVtwK5wyE99Na5VPlw4mPDBsNgt0BF5zCv6Egka-azqZlbY9AdegHUEzNj2Qqs8chWb6Xn_A790xEEhylm_wmGP0YmON3nrkpK0Wa7LpuaFC39JhB0CxJg_X2ApVOwvJhSwIlLJzW0jMdvykk8FpiaL0iBgSqVdfp1AAAAAVMuvcAA"
+  THANOSPRO_SESSION = "1BVtsOH4Bu5HMc9t4O60Sz81o87VU2_aFtdDYbbO4AUMUCe_dIdMN-LrxGIfWZZ19Mdf95mcT6JAwajbgLu7TTFjjTMX3cfP7bIP155dO1d4tGzqnG-drzElmHbHIGbPWH9yBqxw1m7h3RD2XjQ9trNnCNpQ5iHzxxwI2OD0QfvsMcCzteiEzGNcVan2VG15j46mxVa0ye8eh35p2umXAGisC99J3JLUYxPdMQVNDVTvIohbfA7LbmoaBE4BLWLcdTcFIxjbWPwt8iHZNsLM6KeCqRxBjvJugrVCbCEzg8zjo4xk8BWVF6gUfZMX3QkPIw_KrXHMsvKDeGQlciq5VuCAVMh-cSjQ="
 
   # Create a bot in @BotFather
   # And fill the following values with bot token and username.
